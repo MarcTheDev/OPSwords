@@ -1,3 +1,8 @@
 name: WIP
 author: Marc
 version: 1.0.0
+commands:
+  hello:
+    description: Test
+
+    aliases: [h]
